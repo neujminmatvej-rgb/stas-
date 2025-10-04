@@ -1,0 +1,19 @@
+*{
+    font-family: "Kablammo", system-ui;
+}
+ul{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  
+  list-style: none;
+  padding: 0;
+}
+li a {
+  padding: 20px 10px;
+  background: #ccc;
+  text-decoration: none;
+}
+li a:hover{
+  background: #777;
+}
